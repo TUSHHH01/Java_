@@ -19,7 +19,7 @@ public class even_odd {
         }
         else
         {
-            System.out.println("False");
+            System.out.println("true");
         }
     }
 }
