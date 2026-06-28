@@ -1,3 +1,4 @@
+// The code have the bit operator '&' to reduce time complexity
 public class even_odd {
     public static boolean checkeven_odd(int n)
     {
@@ -19,7 +20,7 @@ public class even_odd {
         }
         else
         {
-            System.out.println("true");
+            System.out.println("false");
         }
     }
 }
